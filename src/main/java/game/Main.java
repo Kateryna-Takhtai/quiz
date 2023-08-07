@@ -1,7 +1,2 @@
-package game;
-
-public class Main {
-    public static void main(String[] args) {
-        new Quiz();
-    }
+package game;public class Main {
 }
